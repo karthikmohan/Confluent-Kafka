@@ -1,6 +1,8 @@
 Confluent
 ---------
 
+Confluent Kafka
+
 Confluent offers a real-time data platform built around Apache Kafka.
 
 Apache Kafka, an open source technology created by the founders of Confluent,
